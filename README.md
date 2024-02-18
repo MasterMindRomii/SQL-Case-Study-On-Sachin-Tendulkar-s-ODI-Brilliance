@@ -1,5 +1,6 @@
 # SQL-Case-Study-On-Sachin-Tendulkar-s-ODI-Brilliance
-Welcome to the SQL Case Study on Sachin Tendulkar’s ODI Brilliance repository! Delve into captivating insights from Sachin's legendary ODI career through SQL queries.🏏📊
+
+Welcome to the SQL Case Study on Sachin Tendulkar’s ODI Brilliance repository! Delve into captivating insights from Sachin's legendary ODI career through SQL queries. 🏏📊
 
 In the annals of cricket history, few names resonate with as much reverence as Sachin Tendulkar. Often hailed as the “God of Cricket,” Tendulkar’s monumental impact on the game is immortalized through his extraordinary records and unparalleled achievements. One facet of his illustrious career that stands as a testament to his cricketing genius is his performance in One Day Internationals (ODIs). From his debut in 1989 to his retirement in 2012, Tendulkar’s ODI journey spans over two decades, encapsulating an era of cricket marked by his unwavering dedication, remarkable consistency, and a thirst for records that seemed insatiable.
 
